@@ -1,4 +1,4 @@
-# Saqlain Mushtaq — AI, Machine Learning & Python Portfolio
+# Saqlain Mushtaq — Personal Portfolio
 
 [![Live Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-0771D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saqlainsaqlain625.github.io/saqlain-mushtaq-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-saqlainsaqlain625-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqlainsaqlain625)
